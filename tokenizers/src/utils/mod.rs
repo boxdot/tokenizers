@@ -1,5 +1,4 @@
 pub(crate) mod cache;
-pub(crate) mod from_pretrained;
 pub mod iter;
 pub mod padding;
 pub mod parallelism;
